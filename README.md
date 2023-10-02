@@ -8,5 +8,5 @@ A welcome exercise for git users.
 name: john,
 favorite food: Pizza
 
-name: kaushik,
-favorite food: Hot dog
+name: Michael,
+favorite food: Baby Back Ribs
