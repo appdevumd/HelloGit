@@ -12,4 +12,4 @@ name: kaushik,
 favorite food: Hot dog
 
 name: frank,
-favorite food: meat sandwich but without bread
+favorite food: meat sandwich but without bread and any toppings
