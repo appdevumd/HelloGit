@@ -12,4 +12,4 @@ name: kaushik,
 favorite food: Hot dog
 
 name: luke,
-favorite food: pasta
+favorite food: Pasta
