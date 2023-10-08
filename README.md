@@ -10,3 +10,6 @@ favorite food: Pizza
 
 name: kaushik,
 favorite food: Hot dog
+
+name: Raakin,
+favorite food: Chicken biryani
